@@ -1,0 +1,21 @@
+.checkout-container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.orden-container{
+    width: 100%;
+     gap: 20px;
+}
+
+.table-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container {
+    margin: 20px;
+}
